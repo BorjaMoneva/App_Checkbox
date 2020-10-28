@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">App_Checkbox</string>
+    <string name="txt_nombre">Nombre</string>
+    <string name="txt_apellido">Primer apellido</string>
+    <string name="tv_programcion">¿Que lenguajes de programacion has utilizado?</string>
+    <string name="cb_java">Java</string>
+    <string name="cb_python">Python</string>
+    <string name="cb_c">C++</string>
+    <string name="cb_kotlin">Kotlin</string>
+    <string name="btn">Mostrar informacion</string>
+    <string name="tv_informacion"></string>
+
+
+
+
 </resources>
